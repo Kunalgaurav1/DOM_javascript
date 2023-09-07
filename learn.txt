@@ -1,0 +1,9 @@
+-->> What is DOM?
+ans-- it is Document object model we can also say that it is frontend ki javascript
+-->> 4 pillers of DOM
+-->> Simple Example of Bulb or Whatever clicking on the same button
+-->> Multiple events
+-->> Selecting multiple element at a same time
+-->> setTimeout
+-->> setInterval
+-->> future projects 

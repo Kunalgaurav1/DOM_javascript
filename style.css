@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body,html{
+    height: 100%;
+    width: 100%;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+
+#bulb{
+    height:300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 2px solid black;
+    
+}
+
+button{
+    padding: 10px 30px;
+    font: 50px;
+    margin: 90px;
+}
+
+
+h1{
+    font-weight: 1000;
+    font-size: 70px;
+}
