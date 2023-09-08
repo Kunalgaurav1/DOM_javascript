@@ -61,7 +61,7 @@ btn.addEventListener("click", function(){
 
 */
 
-var a = document.querySelector("h1")
+
 
 
 
@@ -81,5 +81,10 @@ document.getElementsByClassName("contianer")// getElementByclassname classname s
  
 
 
-*/
+  */
+
+
+var a = document.querySelector("h1")
+a.textContent = "kunal heyy"  //agar tumko sirf plane text change / include krna ho tab textContent use kro but agr tumko tags v include krne hai to fr innerHTML use kro 
+
 
